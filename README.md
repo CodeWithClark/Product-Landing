@@ -1,5 +1,9 @@
-This is a product landing page for drum lessons.
+This is a Product Landing Page for drum lessons.
 
-This project contributes to the first part of my coding portfolio
+It makes up the first part of my coding portfolio.
 
-See this page live by clicking this link:
+See this project live at the following URL:
+
+https://rossclarkcoding.github.io/product-landing-page/
+
+Enjoy!
